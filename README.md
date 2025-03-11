@@ -1,3 +1,3 @@
 # VQAA-on-SDES
-## A variational quantum attack algorithm (VQAA) for classical AES-like symmetric cryptography, as exemplified the Simplified-Data Encryption Standard (S-DES). 
-##  In the VQAA, the known ciphertext is encoded as the ground state of a Hamiltonian that is constructed through a regular graph, and the ground state can be found using a variational approach. We designed the ansatz and cost function for the S-DESs variational quantum attack. It is surprising that sometimes the VQAA is even faster than Grovers algorithm 
+ A variational quantum attack algorithm (VQAA) for classical AES-like symmetric cryptography, as exemplified the Simplified-Data Encryption Standard (S-DES). 
+ In the VQAA, the known ciphertext is encoded as the ground state of a Hamiltonian that is constructed through a regular graph, and the ground state can be found using a variational approach. We designed the ansatz and cost function for the S-DESs variational quantum attack. It is surprising that sometimes the VQAA is even faster than Grovers algorithm 
